@@ -5,8 +5,12 @@ public class Main {
         Cachorro c3 = new Cachorro("Teo", "Pincher", 3);
 
         c1.imprimir();
-        c2.imprimir();
+        System.out.println("\n\n\n");
+                c2.imprimir();
+        System.out.println("\n\n\n");
+
         c3.imprimir();
+        System.out.println("\n\n\n");
 
         String latido_principal = c1.latir2();
         System.out.println(latido_principal);

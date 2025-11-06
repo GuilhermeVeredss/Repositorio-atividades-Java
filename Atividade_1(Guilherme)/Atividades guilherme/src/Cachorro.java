@@ -15,7 +15,7 @@ public class Cachorro {
     }
 
     public String latir2(){
-        return "au au dog mal";
+        return "eu conheci um cara androgino no colegio";
     }
 
     public void carac(){
