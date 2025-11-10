@@ -6,7 +6,7 @@ public class Main {
 
         c1.imprimir();
         System.out.println("\n\n\n");
-                c2.imprimir();
+        c2.imprimir();
         System.out.println("\n\n\n");
 
         c3.imprimir();

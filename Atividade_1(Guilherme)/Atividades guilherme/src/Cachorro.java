@@ -15,7 +15,7 @@ public class Cachorro {
     }
 
     public String latir2(){
-        return "eu conheci um cara androgino no colegio";
+        return "Latido: Eu conheci um cara andrógeno no colégio";
     }
 
     public void carac(){
